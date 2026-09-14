@@ -8,11 +8,11 @@ Estudante de Análise e Desenvolvimento de Sistemas (PUC Minas), formado em Ciê
 
 ## 🛠️ Stack
 
-**Linguagens:** Python, C#, JavaScript, HTML, CSS
-**Automação & Dados:** Playwright, Pandas, Power Query
-**APIs & Banco de Dados:** Consumo e testes de API (Postman), MySQL, SQL Server, PostgreSQL, MongoDB
-**Frameworks:** .NET, Node.js, React Native, Firebase
-**Versionamento:** Git, GitHub
+**Linguagens:** Python, C#, JavaScript, HTML, CSS.
+**Automação & Dados:** Playwright, Pandas, Power Query.
+**APIs & Banco de Dados:** Consumo e testes de API (Postman), MySQL, SQL Server, PostgreSQL, MongoDB.
+**Frameworks:** .NET, Node.js, React Native, Firebase.
+**Versionamento:** Git, GitHub.
 
 ---
 
